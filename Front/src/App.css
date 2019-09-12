@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.NavContainer {
+  background-color: blue;
+  float: left;
+  width: 100%;
+}
+
+.NavButton {
+  float: left;
+  background-color: green;
+  width: 100px;
+  color: aliceblue;
+  height: 40px;
+}
+
+table,
+th,
+td {
+  border: 2px solid green;
+}
+
+ul {
+  list-style-type: none;
+  margin: 30px;
+  padding-bottom: 10px;
+}
+
+li {
+  margin: 20px;
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+table {
+  background-color: #8c8e92;
+  margin-left: 20px;
+  border-collapse: collapse;
+}
+
+tr {
+  height: 30px;
+  background-color: rgb(190, 187, 187);
+}
+
+button {
+  background-color: #b7b9bd;
+}
+
+.addButton {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  height: 30px;
+  background-color: rgb(190, 187, 187);
+}
+
+/*.addModal {
+  height: 70px;
+  width: 100px;
+  background-color:green;
+  margin-top: 350px;
+  margin-left: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+*/
+input {
+  width: 90%;
+  height: 25px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(116, 114, 114);
+}
+
+.inputButton {
+  margin: 2px;
+  height: 30px;
+}
+
+p {
+  color: #06080c;
+  margin-left: 20px;
+}
+
+.todoList {
+  background-color: #929396;
+  float: left;
+  width: 100%;
+  padding: 20px;
+}
+
+.archiveList {
+  background-color: #929396;
+  float: left;
+  width: 100%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
